@@ -11,12 +11,7 @@ Grading criteria:
  6. How bad did you cheat / copy / use previous work? 
  7. Biases. Lots of biases. 
 
-
-### React 360 
-
-Spin up a project super easy:
-```
-npx react-360-cli init hacknight3
-cd hacknight3
-npm start
-```
+# How to run
+1. `yarn start`
+2. `yarn tunnel`
+3. navigate to ngrok url in Oculus Go browser
